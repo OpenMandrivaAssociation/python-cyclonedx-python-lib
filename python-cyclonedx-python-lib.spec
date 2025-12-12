@@ -1,6 +1,6 @@
 Name:		python-cyclonedx-python-lib
 Version:	11.1.0
-Release:	1
+Release:	2
 Source0:	https://files.pythonhosted.org/packages/source/c/cyclonedx-python-lib/cyclonedx_python_lib-%{version}.tar.gz
 Summary:	Python library for CycloneDX
 URL:		https://pypi.org/project/cyclonedx-python-lib/
