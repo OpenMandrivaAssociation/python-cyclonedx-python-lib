@@ -2,7 +2,7 @@
 %define oname cyclonedx_python_lib
 
 Name:		python-cyclonedx-python-lib
-Version:	11.7.0
+Version:	11.8.0
 Release:	1
 Summary:	Python library for CycloneDX
 Group:		Development/Python
